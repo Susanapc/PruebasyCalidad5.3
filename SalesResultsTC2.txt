@@ -1,0 +1,2 @@
+Total Sales Cost: $166568.23
+Execution Time: 0.00 seconds
